@@ -26,7 +26,7 @@ nav ul{
     flex-direction: row;
     justify-content: center;
     align-items: flex-start;
-    gap: 40px;
+    gap: 1.5em;
     flex: 2 0 auto;
     flex-wrap: nowrap;
 }
